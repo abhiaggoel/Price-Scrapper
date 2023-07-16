@@ -1,1 +1,3 @@
-# Price-Scrapper
+# Price-Scrapper 💵
+## The success of online e-commerce companies depends largely on their ability to delight customers and deliver good customer service. Many e-commerce websites are flourishing in the e-commerce market (like Amazon or Flipkart). To achieve this success in the e-commerce market, many well-known websites mislead their customers, i.e., by increasing the cost of the products before and during sale, while providing customers with huge cashback and discount offers. According to studies, it was discovered that the "discount" cost was identical to or barely lower than the ordinary cost. The reason for this issue is that most of the customers are not aware of this tactic used by the companies, i.e., they are unable to track the cost of the product. This paper survey on web-scraping method and machine learning algorithm and provides new technique that can be beneficial to customers for e-commerce website shopping.
+
